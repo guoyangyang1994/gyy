@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数组越界", "数组越界\数组越界.vcxproj", "{AA7BEA7F-3DC4-403B-BA5F-3A19A58CF74D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA7BEA7F-3DC4-403B-BA5F-3A19A58CF74D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AA7BEA7F-3DC4-403B-BA5F-3A19A58CF74D}.Debug|Win32.Build.0 = Debug|Win32
+		{AA7BEA7F-3DC4-403B-BA5F-3A19A58CF74D}.Release|Win32.ActiveCfg = Release|Win32
+		{AA7BEA7F-3DC4-403B-BA5F-3A19A58CF74D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
